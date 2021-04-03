@@ -7,8 +7,6 @@ Evaluar en el Playground
 ```
 Metacello new
 	baseline: 'WollokVM';
-	repository: 'github://tesonep/wollok-base';
+	repository: 'github://gstn-caruso/taller-vms-uqbar';
 	load.
 ```
-
-Cambiar tesonep y wollok-base con el nombre del usuario github y el repositorio.
